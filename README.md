@@ -18,5 +18,5 @@
 Clone the repo:
 
 ```bash
-git clone https://github.com/anuragKumarCB/Learning-Java-From-Scratch--Code-Only.git
+git clone git@github.com:anuragKumarCB/java-daily-challenges.git
 cd java-daily-challenges
